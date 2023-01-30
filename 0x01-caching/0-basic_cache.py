@@ -10,7 +10,7 @@ class BasicCache(BaseCaching):
     BasicCache
     """
 
-    def put(self,key, item):
+    def put(self, key, item):
         """
         put
         """
